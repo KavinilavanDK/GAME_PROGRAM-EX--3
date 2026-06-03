@@ -41,4 +41,4 @@ To replace the default third person character mesh with a custom skeletal mesh a
 
 
 ## Result
-The default Third Person C
+The default Third Person C is successfully verified
